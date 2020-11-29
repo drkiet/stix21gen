@@ -1,0 +1,4 @@
+github.com/drkiet/stix21 v0.0.0-20201129005802-b6b542c809ad h1:Rz/Juz3Iol2517zw84YtuSg2qhg93D47jDCN09OBqD8=
+github.com/drkiet/stix21 v0.0.0-20201129005802-b6b542c809ad/go.mod h1:s87m8isfWqhW1wsn5bv9vN0LAq0ZVHk8MLQeRMhlQ/A=
+github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
